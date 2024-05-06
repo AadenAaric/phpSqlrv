@@ -18,8 +18,8 @@ Move the downloaded drivers, named php_sqlrv_[x64/x86]ts.dll and php_pdp_sqlrv[x
 Step 4:
 Open the php.ini file in your PHP folder using a text editor. Search for "extension" and uncomment the lines by adding:
 
-extension=php_sqlsrv_82_ts_x64.dll (replace version and system architecture accordingly)
-extension=php_pdo_sqlsrv_82_ts_x64.dll (replace version and system architecture accordingly)
+      extension=php_sqlsrv_82_ts_x64.dll (replace version and system architecture accordingly)
+      extension=php_pdo_sqlsrv_82_ts_x64.dll (replace version and system architecture accordingly)
 
 Step 5:
 Check if the SQL Server instance is running in Services. If not, start the service.
