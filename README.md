@@ -1,10 +1,10 @@
 Prerequisites:
 
-   1.Install MSSQL drivers for PHP. You can find them [here](https://learn.microsoft.com/en-us/sql/connect/php/download-drivers-php-sql-server?view=sql-server-ver16).
-   2.SQL Server Development Edition.
-   3.SQL Server Management Studio.
-   4.Download PHP (thread safe) from [here](https://windows.php.net/download#php-8.3).
-   5.VS Code with the PHP Server extension.
+      1.Install MSSQL drivers for PHP. You can find them [here](https://learn.microsoft.com/en-us/sql/connect/php/download-drivers-php-sql-server?view=sql-server-ver16)
+      2.SQL Server Development Edition
+      3.SQL Server Management Studio
+      4.Download PHP (thread safe) from [here](https://windows.php.net/download#php-8.3)
+      5.VS Code with the PHP Server extension
    
 Step 1:
 Download PHP (thread safe).
